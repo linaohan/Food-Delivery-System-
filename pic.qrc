@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>main1</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>back1.png</file>
+        <file>chicken1.png</file>
+        <file>chicken2.png</file>
+        <file>chicken3.png</file>
+        <file>chicken4.png</file>
+        <file>ham1.png</file>
+        <file>des2.png</file>
+        <file>ham2.png</file>
+        <file>ham3.png</file>
+        <file>ham4.png</file>
+        <file>des3.png</file>
+        <file>des4.png</file>
+        <file>des1.png</file>
+        <file>logo</file>
+        <file>logo.png</file>
+        <file>back_副本.png</file>
+        <file>111</file>
+        <file>ww</file>
+        <file>sdf</file>
+        <file>1223</file>
+    </qresource>
+</RCC>
